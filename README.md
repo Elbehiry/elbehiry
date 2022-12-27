@@ -1,5 +1,4 @@
-### Hi there 👋  I'm Mohamed Elbehiry.
-I'm Android Developer. Welcome to my page!
+### Hi there 👋 Welcome to my page!
 
 - 🌱 I’m currently learning Building and using [FFMPEG](https://ffmpeg.org/) for android development.
 - 🔭 I’m currently working on [CoBle](https://github.com/Elbehiry/CoBle), and maintaing [Delish](https://github.com/Elbehiry/Delish)
