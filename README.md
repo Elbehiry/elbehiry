@@ -1,9 +1,8 @@
 ### Hi there 👋  I'm Mohamed Elbehiry.
 I'm Android Developer. Welcome to my page!
 
-🌱 *Currently learning*: JetPack [Compose](https://developer.android.com/jetpack/compose)
-
-
+- 🌱 I’m currently learning Building and using [FFMPEG](https://ffmpeg.org/) for android development.
+- 🔭 I’m currently working on [CoBle](https://github.com/Elbehiry/CoBle), and maintaing [Delish](https://github.com/Elbehiry/Delish)
 
 <!--
 **Elbehiry/elbehiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
