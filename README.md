@@ -1,8 +1,5 @@
 ### Hi there 👋 Welcome to my page!
 
-- 🌱 I’m currently learning Building and using [FFMPEG](https://ffmpeg.org/) for android development. also i'm playing using opengl with camerax api.
-- 🔭 I’m currently working on [CoBle](https://github.com/Elbehiry/CoBle), and maintaing [Delish](https://github.com/Elbehiry/Delish)
-
 <!--
 **Elbehiry/elbehiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
